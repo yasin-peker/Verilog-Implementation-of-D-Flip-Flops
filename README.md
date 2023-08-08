@@ -27,17 +27,9 @@ D Flip-Flops (DFFs) are sequential logic elements commonly used in digital circu
 
 Each DFF variant is meticulously designed and documented to provide insights into its functionality, use cases, and integration tips. This repository offers a valuable resource for learning, experimentation, and integration of these versatile DFF modules into your digital design projects.
 
-## Usage
-
-Integrating these DFF variants into your Verilog projects is straightforward. Simply include the required module(s) in your design and connect the necessary inputs and outputs. Detailed usage instructions and examples are provided within each module's source code.
-
 ## Symbol Files
 
 Schematic symbol files (in various formats) are included for each DFF variant. These symbols ease the process of integrating the DFFs into popular schematic capture and simulation tools, enabling seamless integration into your design workflow.
-
-## Contributing
-
-We invite contributions from the community to enhance and expand this repository. If you have new DFF variants, optimizations, or improvements to share, please fork the repository, implement your changes, and submit a pull request. Let's collaborate to create an even more robust collection of DFF modules.
 
 ## License
 
