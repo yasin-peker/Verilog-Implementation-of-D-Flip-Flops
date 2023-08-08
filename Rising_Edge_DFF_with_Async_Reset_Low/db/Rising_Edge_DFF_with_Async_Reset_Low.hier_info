@@ -1,0 +1,7 @@
+|Rising_Edge_DFF_with_Async_Reset_Low
+D => Q~reg0.DATAIN
+clk => Q~reg0.CLK
+Async_Reset => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
