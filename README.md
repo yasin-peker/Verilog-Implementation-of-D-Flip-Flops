@@ -37,4 +37,4 @@ We would like to express our gratitude to the open-source community for its cont
 
 ---
 
-**[Explore the Code](https://github.com/your-username/verilog-dff-variants)** | **[Fork the Repository](https://github.com/your-username/verilog-dff-variants/fork)**
+**[Explore the Code](https://github.com/yasin-peker/Verilog-Implementation-of-D-Flip-Flops)** | **[Fork the Repository](https://github.com/yasin-peker/Verilog-Implementation-of-D-Flip-Flops/fork)**
