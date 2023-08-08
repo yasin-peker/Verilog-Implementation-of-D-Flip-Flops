@@ -1,12 +1,8 @@
 # Verilog Implementation of D-Flip Flops Repository
 
-![D Flip-Flop Variants](repository_banner.png)
-
 ## Introduction
 
 Welcome to the **Verilog D Flip-Flop Variants Repository**! This repository is a comprehensive collection of Verilog HDL implementations showcasing 8 distinct variants of D flip-flops (DFFs). These fundamental building blocks of digital circuitry play a crucial role in storing and synchronizing digital signals. Each DFF variant included in this repository is meticulously crafted to address specific edge-triggered and reset scenarios, making them versatile tools for various digital design projects.
-
-![Project Showcase](project_showcase.png)
 
 ## D Flip-Flop Variants
 
