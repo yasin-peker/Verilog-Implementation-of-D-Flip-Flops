@@ -1,0 +1,6 @@
+module Rising_Edge_DFF_with_Sync_Reset(
+	input D,
+	input Sync_Reset,
+	input clk,
+	output reg Q
+	);
