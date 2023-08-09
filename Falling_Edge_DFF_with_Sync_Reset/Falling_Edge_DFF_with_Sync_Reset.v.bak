@@ -1,0 +1,22 @@
+module Falling_Edge_DFF_with_Sync_Reset(
+	input D,
+	input clk,
+	input Sync_Reset,
+	output reg Q
+);
+
+always @(posedge clk or posedge Sync_Reset)
+begin
+
+	if(Sync_Reset == 1'b1)
+		
+		Q <= 1'b0;
+	
+	else
+	
+		Q <= D;
+	
+end
+
+
+endmodule;
